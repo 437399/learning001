@@ -7,6 +7,7 @@ public class lohit01 {
 	@Test()
 	public void launch(){
 		System.out.println("testing testing");
+		System.out.println("testing testing");
 	}
 
 }
